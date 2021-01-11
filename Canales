@@ -6,5 +6,28 @@ https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/qkzjitm99su7y.m3u8?s=VfKX2c5yvVFE
 #EXTINF:-1 ,Canal RCN
 https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/66vq38eyower0.m3u8?s=pT92sjflEWDmZCPsM6ZfnA&e=1610402547
 
-#EXTINF:-1 ,Canal 1
+#EXTINF:-1 , Canal 1
+#EXT-X-VERSION:6
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:974089
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXTINF:4.004,
 https://co-e1-p-e-nd3.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/media_1000_20210111T172722_974089.ts?uid=Vfilhn0TEfimWZDlCKHU6FwIM7XBcn1N&sid=YHFAEkCSEKWA51eVK8cpO4LM0xdEoUYC&pid=VrgEWDYb65Yj8hN39POvqGfui1d61NFB&ref=https%3A%2F%2Frepelisgo.info%2F&dnt=true&es=co-e1-p-e-nd3.cdn.mdstrm.com&ote=1610471717017&ot=YLfUnQpD-9ZbPL0WplmUEA&proto=https&pz=us
+#EXTINF:4.004,
+https://co-e1-p-e-nd3.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/media_1000_20210111T172726_974090.ts?uid=Vfilhn0TEfimWZDlCKHU6FwIM7XBcn1N&sid=YHFAEkCSEKWA51eVK8cpO4LM0xdEoUYC&pid=VrgEWDYb65Yj8hN39POvqGfui1d61NFB&ref=https%3A%2F%2Frepelisgo.info%2F&dnt=true&es=co-e1-p-e-nd3.cdn.mdstrm.com&ote=1610471717017&ot=YLfUnQpD-9ZbPL0WplmUEA&proto=https&pz=us
+#EXTINF:4.004,
+https://co-e1-p-e-nd3.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/media_1000_20210111T172730_974091.ts?uid=Vfilhn0TEfimWZDlCKHU6FwIM7XBcn1N&sid=YHFAEkCSEKWA51eVK8cpO4LM0xdEoUYC&pid=VrgEWDYb65Yj8hN39POvqGfui1d61NFB&ref=https%3A%2F%2Frepelisgo.info%2F&dnt=true&es=co-e1-p-e-nd3.cdn.mdstrm.com&ote=1610471717017&ot=YLfUnQpD-9ZbPL0WplmUEA&proto=https&pz=us
+#EXTINF:4.004,
+https://co-e1-p-e-nd3.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/media_1000_20210111T172734_974092.ts?uid=Vfilhn0TEfimWZDlCKHU6FwIM7XBcn1N&sid=YHFAEkCSEKWA51eVK8cpO4LM0xdEoUYC&pid=VrgEWDYb65Yj8hN39POvqGfui1d61NFB&ref=https%3A%2F%2Frepelisgo.info%2F&dnt=true&es=co-e1-p-e-nd3.cdn.mdstrm.com&ote=1610471717017&ot=YLfUnQpD-9ZbPL0WplmUEA&proto=https&pz=us
+#EXTINF:4.004,
+https://co-e1-p-e-nd3.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/media_1000_20210111T172738_974093.ts?uid=Vfilhn0TEfimWZDlCKHU6FwIM7XBcn1N&sid=YHFAEkCSEKWA51eVK8cpO4LM0xdEoUYC&pid=VrgEWDYb65Yj8hN39POvqGfui1d61NFB&ref=https%3A%2F%2Frepelisgo.info%2F&dnt=true&es=co-e1-p-e-nd3.cdn.mdstrm.com&ote=1610471717017&ot=YLfUnQpD-9ZbPL0WplmUEA&proto=https&pz=us
+#EXTINF:4.004,
+https://co-e1-p-e-nd3.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/media_1000_20210111T172742_974094.ts?uid=Vfilhn0TEfimWZDlCKHU6FwIM7XBcn1N&sid=YHFAEkCSEKWA51eVK8cpO4LM0xdEoUYC&pid=VrgEWDYb65Yj8hN39POvqGfui1d61NFB&ref=https%3A%2F%2Frepelisgo.info%2F&dnt=true&es=co-e1-p-e-nd3.cdn.mdstrm.com&ote=1610471717017&ot=YLfUnQpD-9ZbPL0WplmUEA&proto=https&pz=us
+#EXTINF:4.004,
+https://co-e1-p-e-nd3.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/media_1000_20210111T172746_974095.ts?uid=Vfilhn0TEfimWZDlCKHU6FwIM7XBcn1N&sid=YHFAEkCSEKWA51eVK8cpO4LM0xdEoUYC&pid=VrgEWDYb65Yj8hN39POvqGfui1d61NFB&ref=https%3A%2F%2Frepelisgo.info%2F&dnt=true&es=co-e1-p-e-nd3.cdn.mdstrm.com&ote=1610471717017&ot=YLfUnQpD-9ZbPL0WplmUEA&proto=https&pz=us
+#EXTINF:4.004,
+https://co-e1-p-e-nd3.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/media_1000_20210111T172750_974096.ts?uid=Vfilhn0TEfimWZDlCKHU6FwIM7XBcn1N&sid=YHFAEkCSEKWA51eVK8cpO4LM0xdEoUYC&pid=VrgEWDYb65Yj8hN39POvqGfui1d61NFB&ref=https%3A%2F%2Frepelisgo.info%2F&dnt=true&es=co-e1-p-e-nd3.cdn.mdstrm.com&ote=1610471717017&ot=YLfUnQpD-9ZbPL0WplmUEA&proto=https&pz=us
+#EXTINF:4.004,
+https://co-e1-p-e-nd3.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/media_1000_20210111T172754_974097.ts?uid=Vfilhn0TEfimWZDlCKHU6FwIM7XBcn1N&sid=YHFAEkCSEKWA51eVK8cpO4LM0xdEoUYC&pid=VrgEWDYb65Yj8hN39POvqGfui1d61NFB&ref=https%3A%2F%2Frepelisgo.info%2F&dnt=true&es=co-e1-p-e-nd3.cdn.mdstrm.com&ote=1610471717017&ot=YLfUnQpD-9ZbPL0WplmUEA&proto=https&pz=us
+#EXTINF:4.004,
+https://co-e1-p-e-nd3.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/media_1000_20210111T172758_974098.ts?uid=Vfilhn0TEfimWZDlCKHU6FwIM7XBcn1N&sid=YHFAEkCSEKWA51eVK8cpO4LM0xdEoUYC&pid=VrgEWDYb65Yj8hN39POvqGfui1d61NFB&ref=https%3A%2F%2Frepelisgo.info%2F&dnt=true&es=co-e1-p-e-nd3.cdn.mdstrm.com&ote=1610471717017&ot=YLfUnQpD-9ZbPL0WplmUEA&proto=https&pz=us
