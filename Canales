@@ -1,17 +1,107 @@
 #EXTM3U
 
-#EXTINF:-1 ,Canal Caracol
-https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/qkzjitm99su7y.m3u8?s=CJam2JrnbvCXosLCIm-zlA&e=1610421319
-
-#EXTINF:-1 ,Canal RCN
-https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/66vq38eyower0.m3u8?s=pT92sjflEWDmZCPsM6ZfnA&e=1610402547
-
-#EXTINF:-1 , Canal 1
-https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/urgt878zkz.m3u8?s=iB-Ww7PE1bo4ExYRuy5UWw&e=1610421551
-
+#EXTINF:-1 tvg-id="" tvg-name="COL - CABLENOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA",COL - CABLENOTICIAS
+http://tv.nstvlatino.com:8080/jairo1/jairo123/2119
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL - RCN" tvg-logo="http://www.canalrcn.com/sites/all/themes/canalrcn/images/ico180x180.png" group-title="COLOMBIA",COL - RCN
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4002
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL - RCN HD" tvg-logo="http://www.canalrcn.com/sites/all/themes/canalrcn/images/ico180x180.png" group-title="COLOMBIA",COL - RCN HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3415
+#EXTINF:-1 tvg-id="" tvg-name="COL - RCN NOVELAS HD" tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="COLOMBIA",COL - RCN NOVELAS HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/2125
+#EXTINF:-1 tvg-id="" tvg-name="COL - CARACOL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="COLOMBIA",COL - CARACOL FHD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3416
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL - CARACOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="COLOMBIA",COL - CARACOL HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3213
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL - CARACOL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Caracol_Televisi%C3%B3n_HD_2_logo.svg/480px-Caracol_Televisi%C3%B3n_HD_2_logo.svg.png" group-title="COLOMBIA",COL - CARACOL SD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4094
+#EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/WinSportsM%C3%A1s.png" group-title="COLOMBIA",COL - WIN SPORTS + FHD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/16724
+#EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/WinSportsM%C3%A1s.png" group-title="COLOMBIA",COL - WIN SPORTS + HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/54738
+#EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/WinSportsM%C3%A1s.png" group-title="COLOMBIA",COL - WIN SPORTS + SD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/16723
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="COL - WIN SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="COLOMBIA",COL - WIN SPORTS FHD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3271
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="COL - WIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="COLOMBIA",COL - WIN SPORTS HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3057
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL - CITYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA",COL - CITYTV
+http://tv.nstvlatino.com:8080/jairo1/jairo123/1987
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="COL - TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="COLOMBIA",COL - TELECARIBE
+http://tv.nstvlatino.com:8080/jairo1/jairo123/43625
+#EXTINF:-1 tvg-id="" tvg-name="COL - TELEPACIFICO (test)" tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2016/12/logo.png" group-title="COLOMBIA",COL - TELEPACIFICO (test)
+http://tv.nstvlatino.com:8080/jairo1/jairo123/47693
+#EXTINF:-1 tvg-id="" tvg-name="COL - SEÑAL COLOMBIA" tvg-logo="http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/images/stories/logosenalctv.jpg" group-title="COLOMBIA",COL - SEÑAL COLOMBIA
+http://tv.nstvlatino.com:8080/jairo1/jairo123/2163
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="COL - TELEANTIOQUIA" tvg-logo="http://www.mediafire.com/convkey/858d/xi3c6kq1qkc4xhezg.jpg" group-title="COLOMBIA",COL - TELEANTIOQUIA
+http://tv.nstvlatino.com:8080/jairo1/jairo123/2118
+#EXTINF:-1 tvg-id="" tvg-name="COL - TELECAFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.png" group-title="COLOMBIA",COL - TELECAFE
+http://tv.nstvlatino.com:8080/jairo1/jairo123/2128
+#EXTINF:-1 tvg-id="" tvg-name="COL - NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA",COL - NTN 24
+http://tv.nstvlatino.com:8080/jairo1/jairo123/41815
 #EXTINF:-1 , Señal Colombia
 https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
 
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MyC - ANIMAL PLANET" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg" group-title="• MUNDO Y CULTURA",MyC - ANIMAL PLANET
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3247
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MyC - DISCOVERY  HOME & HEALTH" tvg-logo="http://www.mediafire.com/convkey/04c8/5d9ej3quhr5lob7zg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY  HOME & HEALTH
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3083
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC - DISCOVERY CHANNEL" tvg-logo="http://www.mediafire.com/convkey/c688/05s7pcifvp81gbbzg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY CHANNEL
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3251
+#EXTINF:-1 tvg-id="DiscoveryCivilizationLatinAmerica.pa" tvg-name="MyC - HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="• MUNDO Y CULTURA",MyC - HGTV
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3252
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="MyC - DISCOVERY ID" tvg-logo="http://images.mi.tv/channels/0e549ff9-5a67-4d1c-82f5-884ed19d2a44_m.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY ID
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4123
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="MyC - DISCOVERY SCIENCE" tvg-logo="http://www.mediafire.com/convkey/a2c6/7a9rt7yxxr38e36zg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY SCIENCE
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3082
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MyC - DISCOVERY THEATER" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY THEATER
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4119
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="MyC - DISCOVERY TLC" tvg-logo="http://www.mediafire.com/convkey/1948/urzsrf946zocc6qzg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY TLC
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3256
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MyC - DISCOVERY WORLD" tvg-logo="http://www.mediafire.com/convkey/6f45/a3whnlqu8srx38gzg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY WORLD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3081
+#EXTINF:-1 tvg-id="DeutscheWelleLatinAmerica.de" tvg-name="MyC - DW LATINOAMERICA" tvg-logo="http://homozapping.com.mx/wp-content/uploads/2015/06/dw.jpg" group-title="• MUNDO Y CULTURA",MyC - DW LATINOAMERICA
+http://tv.nstvlatino.com:8080/jairo1/jairo123/2102
+#EXTINF:-1 tvg-id="" tvg-name="MyC - FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="• MUNDO Y CULTURA",MyC - FILM & ARTS
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3966
+#EXTINF:-1 tvg-id="" tvg-name="MyC - FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="• MUNDO Y CULTURA",MyC - FRANCE 24
+http://tv.nstvlatino.com:8080/jairo1/jairo123/33357
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="MyC - H2" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s38e131959d60d495/image/i723822227aa9d8ff/version/1474594103/image.png" group-title="• MUNDO Y CULTURA",MyC - H2
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4005
+#EXTINF:-1 tvg-id="" tvg-name="MyC - HISPAN TV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hispan-tv_m.png" group-title="• MUNDO Y CULTURA",MyC - HISPAN TV
+http://tv.nstvlatino.com:8080/jairo1/jairo123/33481
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MyC - HISTORY" tvg-logo="http://www.mediafire.com/convkey/6ef9/2d5y67luvmgvxwwzg.jpg" group-title="• MUNDO Y CULTURA",MyC - HISTORY
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3234
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MyC - NATGEO" tvg-logo="http://www.dreadfullykind.com/wp-content/uploads/2017/05/National-Geographic-Logo-1.jpg" group-title="• MUNDO Y CULTURA",MyC - NATGEO
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4126
+#EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name="MyC - NATGEO MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL.png" group-title="• MUNDO Y CULTURA",MyC - NATGEO MUNDO
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3774
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="MyC - NATGEO WILD" tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild_m.png" group-title="• MUNDO Y CULTURA",MyC - NATGEO WILD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3270
+#EXTINF:-1 tvg-id="RTDocEnglish.ru" tvg-name="MyC - RT ESPAÑOL" tvg-logo="https://s3.spbtv.com/rosing-production/34970a702bcb2748f65f_1014x1014c.png" group-title="• MUNDO Y CULTURA",MyC - RT ESPAÑOL
+http://tv.nstvlatino.com:8080/jairo1/jairo123/2064
+
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ENT -COMEDY CENTRAL" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-png-9.png" group-title="• ENTRETENIMIENTO",ENT -COMEDY CENTRAL
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3241
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT -DISCOVERY TURBO" tvg-logo="http://www.mediafire.com/convkey/cd8f/qlkiabg0k6dc8qvzg.jpg" group-title="• ENTRETENIMIENTO",ENT -DISCOVERY TURBO
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3257
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -E! ENTERTAINMENT" tvg-logo="http://www.mediafire.com/convkey/f110/g9fk4m4a5111oaxzg.jpg" group-title="• ENTRETENIMIENTO",ENT -E! ENTERTAINMENT
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3207
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT -EL GOURMET" tvg-logo="http://images.mi.tv/channels/mx_el-gourmet_m.png" group-title="• ENTRETENIMIENTO",ENT -EL GOURMET
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3206
+#EXTINF:-1 tvg-id="GarageTV.es" tvg-name="ENT -GARAGE TV" tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW.jpeg" group-title="• ENTRETENIMIENTO",ENT -GARAGE TV
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4016
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="ENT -GLITZ" tvg-logo="http://www.mediafire.com/convkey/95e5/y7cerfw1pvyplp1zg.jpg" group-title="• ENTRETENIMIENTO",ENT -GLITZ
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3238
+#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV" tvg-logo="http://oyememagazine.com/wp-content/uploads/2017/09/inicio06.jpg" group-title="• ENTRETENIMIENTO",ENT - HOLA TV
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3075
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="ENT -LIFETIME" tvg-logo="http://www.mediafire.com/convkey/4df9/qdmxhrpyc8y954lzg.jpg" group-title="• ENTRETENIMIENTO",ENT -LIFETIME
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3073
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="ENT -MAS CHIC" tvg-logo="http://images.mi.tv/channels/sv_mas-chic_m.png" group-title="• ENTRETENIMIENTO",ENT -MAS CHIC
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4124
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="ENT -TRU TV" tvg-logo="http://www.mediafire.com/convkey/b06a/pl5hulab678tl9qzg.jpg" group-title="• ENTRETENIMIENTO",ENT -TRU TV
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3231
+#EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT -WOBI" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/wobi.png" group-title="• ENTRETENIMIENTO",ENT -WOBI
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4134
 #EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON
 http://zufreelist.net:8080/FGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJFGHJFGHJDTYJ/zfKElGAlab/877
 
