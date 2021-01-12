@@ -40,6 +40,12 @@ http://tv.nstvlatino.com:8080/jairo1/jairo123/2128
 http://tv.nstvlatino.com:8080/jairo1/jairo123/41815
 #EXTINF:-1 , Señal Colombia
 https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
+#EXTINF:-1 ,"COL - CARACOL FHD" 
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3416
+#EXTINF:-1 ,"COL - CARACOL HD" 
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3213
+#EXTINF:-1 ,"Caracol.co" 
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4094
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MyC - ANIMAL PLANET" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg" group-title="• MUNDO Y CULTURA",MyC - ANIMAL PLANET
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3247
